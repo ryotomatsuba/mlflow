@@ -1,5 +1,7 @@
 # Mlflow Server
 
+Set up a server environment to run mlflow ui.
+
 ## Run
 
 ```sh
