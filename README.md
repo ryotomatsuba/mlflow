@@ -1,6 +1,6 @@
 # Mlflow Server
 
-Set up a server environment to run mlflow ui.
+Set up a server to run mlflow ui.
 
 ## Run
 
