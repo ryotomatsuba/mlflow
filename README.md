@@ -9,5 +9,5 @@ docker build -t mlflow-server .
 ```
 
 ```sh
-docker run -dit -v /home/data/ryoto/:/data --rm -p 5000:5000 --name mlflow-server mlflow-server
+docker run -dit -v /home/data/ryoto/:/data --rm --network=host --name mlflow-server mlflow-server
 ```
